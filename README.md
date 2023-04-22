@@ -24,7 +24,7 @@ Sou bacharelado em Sistemas de Informação em 2015. Tenho mais de 7 anos de exp
 <code>Java, Spring, HTML, CSS, Javascript, Typescript, NodeJS, Angular, ReactJS, VueJS, PHP, Laravel Framework, Redis, PostgreSQL, MySQL, Docker</code>
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Framework"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="Spring Framework"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "Javascript"/></code>
@@ -48,7 +48,7 @@ Sou bacharelado em Sistemas de Informação em 2015. Tenho mais de 7 anos de exp
 
 #### 📞 Contatos:
 - E-mail: <strong>robisonpmachado@gmail.com</strong>
-- Telefone / Whatsapp: <a href="5527999872297">5527999872297</a>
+- Telefone / Whatsapp: <a href="phone:+5527999872297">+55 27 999872297</a>
 
 
 
