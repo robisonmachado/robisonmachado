@@ -25,4 +25,4 @@ Sou bacharelado em Sistemas de Informação em 2015. Tenho mais de 7 anos de exp
 
 #### 📞 Contato
 - E-mail: <strong>robisonpmachado@gmail.com</strong>
-- Telefone / Whatsapp: <a href="tel:+5527999872297"><strong>+55 27 99987-2297</strong></a> 
+- Telefone / Whatsapp: <a href="tel:5527999872297"><strong>+55 27 99987-2297</strong></a> 
