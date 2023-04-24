@@ -48,7 +48,11 @@ Sou bacharelado em Sistemas de Informação em 2015. Tenho mais de 7 anos de exp
 
 #### 📞 Contatos:
 - E-mail: <strong>robisonpmachado@gmail.com</strong>
-- Telefone / Whatsapp: <a href="phone:+5527999872297">+55 27 999872297</a>
-
+- Telefone / Whatsapp: <strong>+55 27 999872297</strong>
+- 
+<div>
+<a href = "mailto:robisonpmachado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/robisonmachado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 
