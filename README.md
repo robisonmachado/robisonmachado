@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **robisonmachado/robisonmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,7 +52,7 @@ Sou bacharelado em Sistemas de Informação em 2015. Tenho mais de 7 anos de exp
   <a href = "mailto:robisonpmachado@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/robisonmachado" target="_blank">
+  <a href="https://www.linkedin.com/in/robisonpmachado" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>   
 </div>
