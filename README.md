@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 
 ### Olá 👋, meu nome é Robison Pereira Machado, desenvolvedor full-stack focado na stack Java
-Sou bacharelado em Sistemas de Informação em 2015. Tenho mais de 7 anos de experiência como desenvolvedor de software, especialmente em desenvolvimento web. Também já trabalhei com desenvolvimento para desktop e mobile. Nesses anos de experiências tive contato com diversas linguagens e stacks no backend sendo Java e PHP as principais. No frontend atuei com tecnlogias javascript modernas como typescript, angular, vuejs e reactjs. Tenho interesse e me dedicado nos últimos anos principalmente por questões relacionadas a arquitetura de software, manutenibilidade de software, automatização de deploy e microserviços.
-
+Sou desenvolvedor de software, graduado como Bacharel em Sistemas de Informação, em 2015, com mais de 10 anos de experiência como desenvolvedor. Nesses anos que se passaram, utilizei diversas tecnologias tanto no backend quanto no frontend, adquirindo um perfil full-stack, e fluência principalmente na stack Java, do lado do backend, e nos principais frameworks javascript/typescript, a começar por Angular, VueJS e React.
 
 #### 📚 🖥️ Tecnologias e Ferramentas: 
 <code>Java, Spring, HTML, CSS, Javascript, Typescript, NodeJS, Angular, ReactJS, VueJS, PHP, Laravel Framework, Redis, PostgreSQL, MySQL, Docker</code>
